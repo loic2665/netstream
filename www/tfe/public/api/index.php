@@ -1,0 +1,1 @@
+<?php header('Refresh: 0; URL=http://collette.no-ip.org/errors/forbid.php'); //header('HTTP/1.0 403 Forbidden');?>
